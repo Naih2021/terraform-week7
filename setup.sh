@@ -1,5 +1,4 @@
 #!/bin/bash
-
 sudo yum update -y 
 sudo yum install unzip wget httpd -y  
 sudo wget https://github.com/utrains/static-resume/archive/refs/heads/main.zip
